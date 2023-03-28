@@ -1,7 +1,9 @@
 {
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 16,
+    "editor.fontLigatures": true,
     "window.titleBarStyle": "custom",
+    "editor.letterSpacing": 0.4,
     "window.commandCenter": true,
     "files.autoSave": "afterDelay",
     "editor.mouseWheelZoom": true,
