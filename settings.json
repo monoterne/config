@@ -1,6 +1,7 @@
 {
-    "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 16,
+    "editor.fontFamily": "JetBrainsMono NF",
+    "terminal.integrated.fontFamily": "JetBrainsMono NF",
+    "editor.fontSize": 14,
     "editor.fontLigatures": true,
     "window.titleBarStyle": "custom",
     "editor.letterSpacing": 0.4,
@@ -10,7 +11,6 @@
     "workbench.list.smoothScrolling": true,
     "terminal.integrated.smoothScrolling": true,
     "editor.inlineSuggest.enabled": true,
-    "workbench.iconTheme": "vscode-icons",
     "workbench.colorTheme": "One Dark Pro Flat",
     "window.menuBarVisibility": "compact",
     "telemetry.telemetryLevel": "off",
@@ -20,5 +20,6 @@
     "workbench.startupEditor": "none",
     "git.rememberPostCommitCommand": true,
     "interactiveWindow.restore": true,
+    "terminal.integrated.defaultProfile.linux": "bash",
     "window.zoomLevel": 1,
 }
