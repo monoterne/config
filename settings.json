@@ -21,5 +21,6 @@
     "git.rememberPostCommitCommand": true,
     "interactiveWindow.restore": true,
     "terminal.integrated.defaultProfile.linux": "zsh",
-    "zenMode.hideLineNumbers": false
+    "zenMode.hideLineNumbers": false,
+    "zenMode.centerLayout": false,
 }
