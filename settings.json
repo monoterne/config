@@ -20,6 +20,6 @@
     "workbench.startupEditor": "none",
     "git.rememberPostCommitCommand": true,
     "interactiveWindow.restore": true,
-    "terminal.integrated.defaultProfile.linux": "bash",
-    "window.zoomLevel": 1,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "zenMode.hideLineNumbers": false
 }
