@@ -3,7 +3,6 @@
   "terminal.integrated.fontFamily": "JetBrainsMono NF",
   "editor.fontSize": 14,
   "editor.bracketPairColorization.enabled": true,
-  "editor.guides.bracketPairs": "active",
   "editor.fontLigatures": true,
   "editor.letterSpacing": 0.4,
   "files.autoSave": "afterDelay",
@@ -27,5 +26,5 @@
   "zenMode.hideLineNumbers": false,
   "zenMode.centerLayout": false,
   "vscord.app.name": "Visual Studio Code",
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 3,
 }
