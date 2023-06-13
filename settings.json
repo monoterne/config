@@ -12,7 +12,6 @@
   "terminal.integrated.smoothScrolling": true,
   "editor.inlineSuggest.enabled": true,
   "workbench.startupEditor": "none",
-  "telemetry.enableTelemetry": false,
   "telemetry.telemetryLevel": "off",
   "security.workspace.trust.banner": "never",
   "security.workspace.trust.enabled": false,
@@ -25,9 +24,17 @@
   "explorer.confirmDelete": false,
   "window.experimental.windowControlsOverlay.enabled": false,
   "window.commandCenter": true,
-  "workbench.colorTheme": "One Dark Pro Flat",
   "extensions.ignoreRecommendations": true,
   "liveServer.settings.donotShowInfoMsg": true,
   "update.showReleaseNotes": false,
-  "workbench.welcomePage.walkthroughs.openOnInstall": false
+  "explorer.confirmDragAndDrop": false,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.scale": 3,
+  "editor.minimap.autohide": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "gptutor.openAIApiKey": "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",
+  "workbench.colorTheme": "Default Light Modern",
+  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Visual Studio}",
+  //"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}"
 }
