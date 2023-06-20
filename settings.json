@@ -1,6 +1,6 @@
 {
-  "editor.fontFamily": "JetBrainsMono Nerd Font",
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
   "editor.fontSize": 14,
   "editor.bracketPairColorization.enabled": true,
   "editor.fontLigatures": true,
@@ -17,7 +17,6 @@
   "security.workspace.trust.enabled": false,
   "security.workspace.trust.untrustedFiles": "open",
   "interactiveWindow.restore": true,
-  "terminal.integrated.defaultProfile.linux": "zsh",
   "zenMode.hideLineNumbers": false,
   "zenMode.centerLayout": false,
   "vscord.app.name": "Visual Studio Code",
@@ -33,8 +32,7 @@
   "editor.minimap.autohide": true,
   "liveServer.settings.donotVerifyTags": true,
   "terminal.integrated.enableMultiLinePasteWarning": false,
-  "gptutor.openAIApiKey": "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",
-  "workbench.colorTheme": "Default Light Modern",
+  "workbench.colorTheme": "One Dark Pro Mix",
   "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Visual Studio}",
   //"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}"
 }
