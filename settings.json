@@ -20,7 +20,6 @@
   "zenMode.centerLayout": false,
   "vscord.app.name": "Visual Studio Code",
   "explorer.confirmDelete": false,
-  "window.experimental.windowControlsOverlay.enabled": false,
   "window.commandCenter": true,
   "extensions.ignoreRecommendations": true,
   "liveServer.settings.donotShowInfoMsg": true,
@@ -30,9 +29,10 @@
   "editor.minimap.scale": 3,
   "editor.minimap.autohide": true,
   "liveServer.settings.donotVerifyTags": true,
-"terminal.integrated.enableMultiLinePasteWarning": false,
-"workbench.colorTheme": "Default Light Modern",
-"window.autoDetectColorScheme": true,
-"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Visual Studio}",
-  //"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}"
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "window.autoDetectColorScheme": true,
+  "files.insertFinalNewline": true,
+  "workbench.preferredDarkColorTheme": "One Dark Pro Flat",
+  "workbench.colorTheme": "One Dark Pro Mix",
+  "window.zoomLevel": 2,
 }
