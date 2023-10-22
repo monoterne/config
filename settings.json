@@ -1,6 +1,7 @@
 {
   "editor.fontFamily": "JetBrainsMono Nerd Font",
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.letterSpacing": 0.4,
   "editor.fontSize": 14,
   "editor.bracketPairColorization.enabled": true,
   "files.autoSave": "afterDelay",
@@ -27,6 +28,20 @@
   "editor.minimap.autohide": true,
   "terminal.integrated.enableMultiLinePasteWarning": false,
   "files.insertFinalNewline": true,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "background.windowBackgrounds": [
+    "d:/Pictures/Wallpapers/anime-master/**"
+  ],
+  "background.backgroundOpacity": [
+    0.95,
+    0.95,
+    0.95,
+    0.95
+  ],
+  "workbench.colorTheme": "One Dark Pro Mix",
+  "workbench.preferredDarkColorTheme": "One Dark Pro Mix",
+  "oneDarkPro.editorTheme": "VS Code",
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
@@ -69,18 +84,5 @@
         }
       },
     ]
-  },
-  "editor.cursorBlinking": "phase",
-  "editor.cursorSmoothCaretAnimation": "on",
-  "background.windowBackgrounds": [
-    "d:/Pictures/Wallpapers/anime-master/**"
-  ],
-  "background.backgroundOpacity": [
-    0.95,
-    0.95,
-    0.95,
-    0.95
-  ],
-  "workbench.colorTheme": "One Dark Pro Mix",
-  "workbench.preferredDarkColorTheme": "One Dark Pro Mix",
+  }
 }
