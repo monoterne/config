@@ -15,7 +15,6 @@
     "security.workspace.trust.untrustedFiles": "open",
     "zenMode.hideLineNumbers": false,
     "zenMode.centerLayout": false,
-    "vscord.app.name": "Visual Studio Code",
     "explorer.confirmDelete": false,
     "window.commandCenter": true,
     "extensions.ignoreRecommendations": true,
