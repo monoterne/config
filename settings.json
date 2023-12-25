@@ -23,5 +23,5 @@
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "files.insertFinalNewline": true,
     "editor.wordWrap": "on",
-    "editor.minimap.enabled": false,
+    "vscord.app.name": "Visual Studio Code",
 }
