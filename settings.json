@@ -1,30 +1,38 @@
 {
-    "security.allowedUNCHosts": [
-        "wsl.localhost"
-    ],
-    "editor.fontSize": 18,
-    "editor.bracketPairColorization.enabled": true,
-    "terminal.integrated.fontSize": 20,
-    "files.autoSave": "afterDelay",
-    "editor.mouseWheelZoom": true,
-    "editor.smoothScrolling": true,
-    "workbench.list.smoothScrolling": true,
-    "terminal.integrated.smoothScrolling": true,
-    "editor.inlineSuggest.enabled": true,
-    "workbench.startupEditor": "none",
-    "telemetry.telemetryLevel": "off",
-    "security.workspace.trust.banner": "never",
-    "security.workspace.trust.enabled": false,
-    "security.workspace.trust.untrustedFiles": "open",
-    "zenMode.hideLineNumbers": false,
-    "zenMode.centerLayout": false,
-    "explorer.confirmDelete": false,
-    "window.commandCenter": true,
-    "explorer.confirmDragAndDrop": false,
-    "terminal.integrated.enableMultiLinePasteWarning": false,
-    "files.insertFinalNewline": true,
-    "editor.wordWrap": "on",
-    "vscord.app.name": "Visual Studio Code",
-    "workbench.colorTheme": "Default Dark+",
-    "window.titleBarStyle": "custom"
+  "security.allowedUNCHosts": ["wsl.localhost"],
+  "editor.fontSize": 18,
+  "editor.fontLigatures": false,
+  "editor.fontWeight": "normal",
+  "editor.fontFamily": "JetBrainsMono Nerd Font, 'Courier New', monospace",
+  "editor.bracketPairColorization.enabled": true,
+  "terminal.integrated.fontSize": 20,
+  "files.autoSave": "afterDelay",
+  "editor.mouseWheelZoom": true,
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.inlineSuggest.enabled": true,
+  "workbench.startupEditor": "none",
+  "telemetry.telemetryLevel": "off",
+  "security.workspace.trust.banner": "never",
+  "security.workspace.trust.enabled": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "zenMode.hideLineNumbers": false,
+  "zenMode.centerLayout": false,
+  "explorer.confirmDelete": false,
+  "window.commandCenter": true,
+  "explorer.confirmDragAndDrop": false,
+  "files.insertFinalNewline": true,
+  "editor.wordWrap": "on",
+  "vscord.app.name": "Visual Studio Code",
+  "workbench.colorTheme": "GitHub Dark Default",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
