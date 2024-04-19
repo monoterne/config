@@ -1,4 +1,7 @@
 {
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
     "editor.fontSize": 18,
     "editor.bracketPairColorization.enabled": true,
     "terminal.integrated.fontSize": 20,
@@ -18,8 +21,10 @@
     "explorer.confirmDelete": false,
     "window.commandCenter": true,
     "explorer.confirmDragAndDrop": false,
-    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
     "files.insertFinalNewline": true,
     "editor.wordWrap": "on",
     "vscord.app.name": "Visual Studio Code",
+    "workbench.colorTheme": "Default Dark+",
+    "window.titleBarStyle": "custom"
 }
