@@ -19,7 +19,7 @@
   "explorer.confirmDragAndDrop": false,
   "files.insertFinalNewline": true,
   "editor.wordWrap": "on",
-  "vscord.app.name": "Custom",
+  "vscord.app.name": "Visual Studio Code",
   "git.ignoreMissingGitWarning": true,
   "cursor.cpp.disabledLanguages": ["css"],
   "[html]": {
