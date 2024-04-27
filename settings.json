@@ -1,7 +1,5 @@
 {
   "security.allowedUNCHosts": ["wsl.localhost"],
-  "editor.fontLigatures": false,
-  "editor.fontWeight": "normal",
   "editor.bracketPairColorization.enabled": true,
   "terminal.integrated.fontSize": 20,
   "files.autoSave": "afterDelay",
@@ -21,7 +19,7 @@
   "explorer.confirmDragAndDrop": false,
   "files.insertFinalNewline": true,
   "editor.wordWrap": "on",
-  "vscord.app.name": "Visual Studio Code",
+  "vscord.app.name": "Custom",
   "git.ignoreMissingGitWarning": true,
   "cursor.cpp.disabledLanguages": ["css"],
   "[html]": {
@@ -31,6 +29,6 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.json-language-features"
   }
 }
