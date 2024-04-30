@@ -21,7 +21,6 @@
   "editor.wordWrap": "on",
   "vscord.app.name": "Visual Studio Code",
   "git.ignoreMissingGitWarning": true,
-  "cursor.cpp.disabledLanguages": ["css"],
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
