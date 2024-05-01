@@ -11,12 +11,11 @@
   "security.workspace.trust.banner": "never",
   "security.workspace.trust.enabled": false,
   "security.workspace.trust.untrustedFiles": "open",
-  "zenMode.hideLineNumbers": false,
-  "zenMode.centerLayout": false,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "files.insertFinalNewline": true,
   "editor.wordWrap": "on",
   "workbench.editor.editorActionsLocation": "titleBar",
-  "workbench.colorTheme": "Tsoding Emacs Gruber Minimal"
+  "workbench.colorTheme": "Tsoding Emacs Gruber Minimal",
+  "workbench.startupEditor": "none"
 }
