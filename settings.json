@@ -1,12 +1,11 @@
 {
-  "security.allowedUNCHosts": ["wsl.localhost"],
+  "editor.fontFamily": "iosevka",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.4,
   "editor.bracketPairColorization.enabled": true,
   "terminal.integrated.fontSize": 20,
   "files.autoSave": "afterDelay",
   "editor.mouseWheelZoom": true,
-  "editor.smoothScrolling": true,
-  "workbench.list.smoothScrolling": true,
-  "terminal.integrated.smoothScrolling": true,
   "editor.inlineSuggest.enabled": true,
   "telemetry.telemetryLevel": "off",
   "security.workspace.trust.banner": "never",
@@ -15,19 +14,9 @@
   "zenMode.hideLineNumbers": false,
   "zenMode.centerLayout": false,
   "explorer.confirmDelete": false,
-  "window.commandCenter": true,
   "explorer.confirmDragAndDrop": false,
   "files.insertFinalNewline": true,
   "editor.wordWrap": "on",
-  "vscord.app.name": "Visual Studio Code",
-  "git.ignoreMissingGitWarning": true,
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[css]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[jsonc]": {
-    "editor.defaultFormatter": "vscode.json-language-features"
-  }
+  "workbench.editor.editorActionsLocation": "titleBar",
+  "workbench.colorTheme": "Tsoding Emacs Gruber Minimal"
 }
