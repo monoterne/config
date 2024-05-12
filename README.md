@@ -27,6 +27,6 @@
   arch config --default-user <username>
   ```
 # Theming
-  **Font:** Iosevka
+  **Font:** [Iosevka](https://github.com/be5invis/Iosevka)
   
   **Themes:** [Tsoding Emacs Gruber Minimal for VSCode](https://github.com/AnksioXD/Tsoding-Gruber-Minimal-For-VSCode)
