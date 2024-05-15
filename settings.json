@@ -19,12 +19,12 @@
   "workbench.startupEditor": "none",
   "editor.renderWhitespace": "boundary",
   "window.autoDetectColorScheme": true,
-  "workbench.colorTheme": "Vitesse Dark Soft",
+  "workbench.colorTheme": "GitHub Dark Default",
   "workbench.editor.tabActionLocation": "left",
   "workbench.fontAliasing": "antialiased",
   "workbench.list.smoothScrolling": true,
-  "workbench.preferredDarkColorTheme": "Vitesse Dark Soft",
-  "workbench.preferredLightColorTheme": "Vitesse Light Soft",
+  "workbench.preferredLightColorTheme": "GitHub Light Default",
+  "workbench.preferredDarkColorTheme": "GitHub Dark Default",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 10,
   "debug.onTaskErrors": "debugAnyway",
@@ -52,4 +52,4 @@
   "window.title": "${rootName}",
   "window.titleBarStyle": "custom",
   "extensions.autoUpdate": "onlyEnabledExtensions",
-}
+
