@@ -1,5 +1,4 @@
 {
-  "editor.fontSize": 16,
   "editor.wordWrap": "on",
   "editor.mouseWheelZoom": true,
   "explorer.confirmDelete": false,
@@ -15,10 +14,11 @@
   "security.workspace.trust.untrustedFiles": "open",
   "window.autoDetectColorScheme": true,
   "workbench.editor.closeOnFileDelete": true,
+  "workbench.startupEditor": "none",
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.fontSize": 16,
   "extensions.autoUpdate": "onlyEnabledExtensions",
   "workbench.preferredLightColorTheme": "GitHub Light Default",
   "workbench.preferredDarkColorTheme": "GitHub Dark Default",
-  "editor.fontFamily": "Cascadia Code",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
