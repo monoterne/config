@@ -18,7 +18,6 @@
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.fontSize": 16,
   "extensions.autoUpdate": "onlyEnabledExtensions",
-  "workbench.preferredLightColorTheme": "GitHub Light Default",
-  "workbench.preferredDarkColorTheme": "GitHub Dark Default",
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontSize": 14
 }
